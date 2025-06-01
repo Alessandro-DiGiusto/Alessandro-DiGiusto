@@ -1,6 +1,6 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Alessandro-DiGiusto&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=true" alt="Statistiche GitHub di Alessandro"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-DiGiusto&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=6" alt="Top 6 Lingue GitHub di Alessandro (compatto)"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-DiGiusto&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=8" alt="Top 6 Lingue GitHub di Alessandro (compatto)"/>
 </div>
 <br>
 <p align="center">
