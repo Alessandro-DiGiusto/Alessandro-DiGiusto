@@ -43,9 +43,3 @@ It's like having Jarvis, but for lazy creatives. If it can organize me, it can o
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=Alessandro-DiGiusto&icon=0&color=1" alt="Visit Count"/>
-  </a>
-</p>
