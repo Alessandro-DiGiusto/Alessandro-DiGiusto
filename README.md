@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on NeuralTask-iOS-APP
-[![NeuralTask](https://img.shields.io/badge/Visit-NeuralTask.app-ff4d4d?style=for-the-badge&logo=apple&logoColor=white)](https://neuraltask.app)
+[![NeuralTask](https://img.shields.io/badge/Visit-NeuralTask.app-ff4d4d?style=for-the-badge&logo=arrow-right&logoColor=white)](https://neuraltask.app)
 
 🌱 I’m currently learning Swift, with a focus on:
 - On-device AI (Core ML)
